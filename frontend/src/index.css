@@ -1,0 +1,17 @@
+main{
+    min-height: 80vh;
+}
+
+header{
+    font-family: 'Teko', sans-serif;
+    font-size: 20px;
+    
+}
+
+h3 {
+    padding: 1rem 0;
+}
+
+.rating span {
+    margin: 0.1rem;
+}
